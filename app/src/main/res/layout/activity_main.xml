@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#165519"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/FLOGing_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:text="FLOGing Test"
+        android:textColor="#FFFFFF"
+        android:textSize="50dp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/button"
+        android:layout_width="110dp"
+        android:layout_height="107dp"
+        android:adjustViewBounds="true"
+        android:background="@drawable/button_on_off"
+        android:scaleType="fitCenter"
+        android:src="@drawable/flog_button"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"/>
+
+
+    <TextView
+        android:id="@+id/caption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="질문생성을 위해 상단 개구리 버튼을 클릭"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/caption2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/caption"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="↓↓↓ 생성된 질문은 다음과 같습니다 ↓↓↓"
+        android:textStyle="italic"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/answers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/caption2"
+        android:layout_centerHorizontal="true"
+        android:textSize="30dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:textColor="#FFFFFF" />
+
+
+</RelativeLayout>
