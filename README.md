@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=017e33&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=9dcc8a&height=350&section=header&text=Flog&fontSize=90&fontColor=017e33&animation=twinkling&fontAlign=50&stroke=ffffff&desc=2023%20Ewha%20Capstone%20Design%20and%20Startup%20Project%20Team%2007%20HoldUp&descAlignY=70&descAlign=50)
 
-# FLOG
+# FLOG :frog:
 ### 시현영상 링크
 홀업(Hold Up) - FLOG시현영상 UI 프로토타입 : 
 
