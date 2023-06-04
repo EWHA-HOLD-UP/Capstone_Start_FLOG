@@ -26,14 +26,13 @@ https://github.com/EWHA-HOLD-UP/FLOGing
 ### 사용 기술
 <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
 <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/aws-#232F3E?style=flat&logo=amazonaws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/openai-#412991?style=flat&logo=openai&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
 
-- ChatGPT API
 
 ### 프로젝트의 목적
 대부분의 별거가족이 연락하고자하는 의지는 있으나 이를 실천할 실행력과 대화소재가 부족하다. 이 문제를 소프트웨어적으로 해결하기 위해 팝업을 통해 서로의 상태를 사진으로 공유하고, <Q-Puzzle>을 맞추며 함께 질문에 답변하는 가족 추억 저장소 앱을 제작하고자 한다. 
