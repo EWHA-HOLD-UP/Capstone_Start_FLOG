@@ -88,7 +88,6 @@ https://www.figma.com/file/Ag1st2N7YRFNfhyvhOB7QB/%5BF-LOG%5D-Flow-Chart?type=wh
 * Kotlin에서 OpenCV 사용하기
   https://github.com/ramonrabello/OpenCV-Kotlin-Starter
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EWHA-HOLD-UP&layout=compact)](https://github.com/EWHA-HOLD-UP/github-readme-stats)
 
 ### 팀원 기술 블로그
 * https://mingorithm.tistory.com/2
