@@ -18,17 +18,17 @@ Android Studio를 통해 실행
 ▶️본 레포는 ChatGPT를 안드로이드로 어플로 불러오는 '기술검증'입니다.
 
 ### 기술 검증
-1. ChatGPT의 답변을 안드로이드 어플 내부로 불러오는 기술 검증 
-* 가족 질문 생성기 - 버튼 클릭만으로 가족과 함께 답변할 수 있는 질문을 생성하여 화면으로 가져올 수 있는가?
-> https://github.com/EWHA-HOLD-UP/Chatgpt_family_question_test
-* 인스타그램 아이디 생성기 (연습용 toy 어플)
-> https://github.com/EWHA-HOLD-UP/ChatGPT_app_test
+**1. ChatGPT의 답변을 안드로이드 어플 내부로 불러오는 기술 검증**
+* 가족 질문 생성기 - 버튼 클릭만으로 가족과 함께 답변할 수 있는 질문을 생성하여 화면으로 가져올 수 있는가? </br>
+https://github.com/EWHA-HOLD-UP/Chatgpt_family_question_test
+* 인스타그램 아이디 생성기 (연습용 toy 어플) </br>
+https://github.com/EWHA-HOLD-UP/ChatGPT_app_test
 
-2. 주요 화면 구현 (초안)
-* 카메라 화면
-> https://github.com/EWHA-HOLD-UP/Flog_Camera
-* FLOGing (상태 공유 조회) 화면
-> https://github.com/EWHA-HOLD-UP/FLOGing
+**2. 주요 화면 구현 (초안)**
+* 카메라 화면</br>
+https://github.com/EWHA-HOLD-UP/Flog_Camera 
+* FLOGing (상태 공유 조회) 화면</br>
+https://github.com/EWHA-HOLD-UP/FLOGing 
 
 ### 사용 기술
 <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=black"/></a>
@@ -38,7 +38,7 @@ Android Studio를 통해 실행
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/>
 
 
 ### 프로젝트의 목적
@@ -80,13 +80,13 @@ https://www.figma.com/file/Ag1st2N7YRFNfhyvhOB7QB/%5BF-LOG%5D-Flow-Chart?type=wh
   
 
 ### 구현에 참고한 자료 및 참고 예정 자료
-* ChatGPT API를 안드로이드 스튜디오로 따와서 어플 생성하기
+* ChatGPT API를 안드로이드 스튜디오로 따와서 어플 생성하기</br>
   https://youtu.be/bLktoOzb4R0
-* 안드로이드에서 ChatGPT 시연하기
+* 안드로이드에서 ChatGPT 시연하기</br>
   https://github.com/skydoves/chatgpt-android
-* 타임랩스 영상 제작 툴 만들기
+* 타임랩스 영상 제작 툴 만들기</br>
   https://youtu.be/ZYT8-yU3v9c
-* Kotlin에서 OpenCV 사용하기
+* Kotlin에서 OpenCV 사용하기</br>
   https://github.com/ramonrabello/OpenCV-Kotlin-Starter
 
 
