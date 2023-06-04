@@ -10,7 +10,7 @@ https://github.com/EWHA-HOLD-UP
 
 ### 실행방법 및 제출 파일
 Android Studio를 통해 실행 -> 각각의 프로젝트로 생성하여 레포 링크를 바로 밑에 첨부합니다. 실행을 위해서는 각 레포지토리에 들어가셔서 코드를 확인해주세요!
-## 기술 검증
+### 기술 검증
 1. ChatGPT의 답변을 안드로이드 어플 내부로 불러오는 기술 검증 
 * 가족 질문 생성기 - 버튼 클릭만으로 가족과 함께 답변할 수 있는 질문을 생성하여 화면으로 가져올 수 있는가?
 https://github.com/EWHA-HOLD-UP/Chatgpt_family_question_test
@@ -38,12 +38,7 @@ https://github.com/EWHA-HOLD-UP/FLOGing
 ### 프로젝트의 목적
 대부분의 별거가족이 연락하고자하는 의지는 있으나 이를 실천할 실행력과 대화소재가 부족하다. 이 문제를 소프트웨어적으로 해결하기 위해 팝업을 통해 서로의 상태를 사진으로 공유하고, <Q-Puzzle>을 맞추며 함께 질문에 답변하는 가족 추억 저장소 앱을 제작하고자 한다. 
 
-_ "어느샌가 가족 간의 연락을 미루고 있진 않았나요? 혹시 의무적으로, 매번 똑같은 연락을 주고 받고 있지는 않나요? 이 애플리케이션은 당신과 가족의 상태를 부담없이 공유할 수 있게 해주며 소중한 이야깃거리를 제공해줄 것입니다." _
-  
-### 팀원 기술 블로그
-* https://mingorithm.tistory.com/2
-* https://yes-im-on.tistory.com/2
-* https://tocsony.tistory.com/2
+_ "어느샌가 가족 간의 연락을 미루고 있진 않았나요? 혹시 의무적으로, 매번 똑같은 연락을 주고 받고 있지는 않나요? 이 애플리케이션은 당신과 가족의 상태를 부담없이 공유할 수 있게 해주며 소중한 이야깃거리를 제공해줄 것입니다." 
   
 ### 핵심 기능
 1. FLOGing : 후면, 전면 카메라 모두 촬영하여 실시간 상태 공유
@@ -89,3 +84,8 @@ https://www.figma.com/file/Ag1st2N7YRFNfhyvhOB7QB/%5BF-LOG%5D-Flow-Chart?type=wh
   https://github.com/ramonrabello/OpenCV-Kotlin-Starter
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EWHA-HOLD-UP&layout=compact)](https://github.com/EWHA-HOLD-UP/github-readme-stats)
+
+### 팀원 기술 블로그
+* https://mingorithm.tistory.com/2
+* https://yes-im-on.tistory.com/2
+* https://tocsony.tistory.com/2
