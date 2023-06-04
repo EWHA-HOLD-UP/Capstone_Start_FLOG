@@ -1,3 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Flog&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+<p align='center'> Ewha Capstone Design and Startup Project B team 07 - Hold Up </p>
+<p align='center'>
+  <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
+    <img src="https://img.shields.io/badge/IDEA%20ISSUE%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="#demo">
+    <img src="https://img.shields.io/badge/DEMO%20-%234FC08D.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
+
 # FLOG
 ### 시현영상 링크
 홀업(Hold Up) - FLOG시현영상 UI 프로토타입 : 
@@ -6,23 +17,32 @@
 ### 홀업(Hold Up) Organization
 https://github.com/EWHA-HOLD-UP
 
-### 프로젝트 레포지토리 정리
-https://github.com/EWHA-HOLD-UP/Flog_Camera : 카메라 화면 구현 repository
+### 실행방법 및 제출 파일
+Android Studio를 통해 실행 -> 각각의 프로젝트로 생성하여 레포 링크를 바로 밑에 첨부합니다. 실행을 위해서는 각 레포지토리에 들어가셔서 코드를 확인해주세요!
+## 기술 검증
+1. ChatGPT의 답변을 안드로이드 어플 내부로 불러오는 기술 검증 
+* 가족 질문 생성기 - 버튼 클릭만으로 가족과 함께 답변할 수 있는 질문을 생성하여 화면으로 가져올 수 있는가?
+https://github.com/EWHA-HOLD-UP/Chatgpt_family_question_test
+* 인스타그램 아이디 생성기 (연습용 toy 어플)
+https://github.com/EWHA-HOLD-UP/ChatGPT_app_test
 
-https://github.com/EWHA-HOLD-UP/FLOGing : FLOGing (상태 공유 조회) 화면 구현 repository
-
-https://github.com/EWHA-HOLD-UP/Chatgpt_family_question_test : ChatGPT로부터 생성된 가족 관련 질문을 어플에 가져와서 나타내는 기술 구현 repository
-
-https://github.com/EWHA-HOLD-UP/ChatGPT_app_test_real : ChatGPT의 답변을 어플로 가져와서 나타내는 기술 구현을 위한 연습용 어플(인스타그램 아이디 생성기) 구현 repository
-
-https://github.com/EWHA-HOLD-UP/FLOG-APP : FLOG Dev repository
+2. 주요 화면 구현 (초안)
+* 카메라 화면
+https://github.com/EWHA-HOLD-UP/Flog_Camera
+* FLOGing (상태 공유 조회) 화면
+https://github.com/EWHA-HOLD-UP/FLOGing
 
 ### 사용 기술
 <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=Android&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=Firebase&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=black"/></a>
-* ChatGPT API
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/aws-#232F3E?style=flat&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/openai-#412991?style=flat&logo=openai&logoColor=white"/></a>
+
+- ChatGPT API
 
 ### 프로젝트의 목적
 대부분의 별거가족이 연락하고자하는 의지는 있으나 이를 실천할 실행력과 대화소재가 부족하다. 이 문제를 소프트웨어적으로 해결하기 위해 팝업을 통해 서로의 상태를 사진으로 공유하고, <Q-Puzzle>을 맞추며 함께 질문에 답변하는 가족 추억 저장소 앱을 제작하고자 한다. 
@@ -32,7 +52,18 @@ _ "어느샌가 가족 간의 연락을 미루고 있진 않았나요? 혹시 �
 ### 팀원 기술 블로그
 * https://mingorithm.tistory.com/2
 * https://yes-im-on.tistory.com/2
-*
+* https://tocsony.tistory.com/2
+  
+### 핵심 기능
+1. FLOGing : 후면, 전면 카메라 모두 촬영하여 실시간 상태 공유
+2. Q-puzzle : 가족들과 함께 질문에 대해 답변하며 조각 풀기 -> 소중한 추억 사진 저장
+3. 개구리 화폐 : 소통을 통해 모은 개구리로 추억북 받기
+4. 이벤트 및 보상 : 소통의 활성도에 따라 외식 할인권, 가족 여행 상품 등의 보상 부여
+
+### 핵심 AI 기술
+1. 안면(표정) 인식 AI : 전면 카메라의 안면 유무, 웃음 여부를 판단하여 재미있는 멘트 제공 (ex. 오늘 활짝 웃는 얼굴이 가족들에게 힘이 되겠네요! , 거기 누구 없나요? 가족들이 얼굴을 궁금해할 거예요!)
+2. 생성형 AI : ChatGPT를 프롬프트 엔지니어링하여 높은 질의 미션&질문 무한 생성
+3. 영상 자동 생성 AI : OpenCV 를 통해 한 달 주기로 가족들의 모든 날을 모아 영상 제공
   
 ### 시나리오
 #### FLOGing
@@ -66,4 +97,4 @@ https://www.figma.com/file/Ag1st2N7YRFNfhyvhOB7QB/%5BF-LOG%5D-Flow-Chart?type=wh
 * Kotlin에서 OpenCV 사용하기
   https://github.com/ramonrabello/OpenCV-Kotlin-Starter
 
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EWHA-HOLD-UP&layout=compact)](https://github.com/EWHA-HOLD-UP/github-readme-stats)
