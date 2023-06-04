@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Flog%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ewha Capstone Design and Startup Project B team 07 - Hold Up&descAlignY=51&descAlign=62)
-  </a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 # FLOG
 ### 시현영상 링크
