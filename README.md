@@ -2,7 +2,10 @@
 
 # FLOG :frog:
 ### 시현영상 링크
-홀업(Hold Up) - FLOG시현영상 UI 프로토타입 : 
+시현영상:
+
+### 프로토타입 링크
+https://www.figma.com/proto/1uk3RLNrL9NZUwv6QBGHRZ/F-log?type=design&node-id=15-6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A6&show-proto-sidebar=1
 
 # Project
 ### 홀업(Hold Up) Organization
