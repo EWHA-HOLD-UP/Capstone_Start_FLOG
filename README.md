@@ -2,7 +2,7 @@
 
 # FLOG :frog:
 ### 시현영상 링크
-시현영상:
+https://youtu.be/p3PQZcT9WBE
 
 ### 프로토타입 링크
 https://www.figma.com/proto/1uk3RLNrL9NZUwv6QBGHRZ/F-log?type=design&node-id=15-6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=15%3A6&show-proto-sidebar=1
@@ -13,7 +13,7 @@ https://github.com/EWHA-HOLD-UP
 
 ### 실행방법 및 제출 파일
 Android Studio를 통해 실행 
--> 각각의 레포지토리로 따로 생성하였기에 레포 링크를 바로 밑에 첨부합니다. 실행을 위해서는 각 레포지토리에 들어가셔서 코드를 확인해주세요!
+-> 각각의 레포지토리로 따로 생성하였기에 레포 링크를 바로 밑에 첨부합니다. **실행을 위해서는 각 레포지토리에 들어가셔서 코드를 확인해주세요!**
 
 ▶️본 레포는 ChatGPT를 안드로이드 어플로 불러오는 '기술검증'입니다.
 
